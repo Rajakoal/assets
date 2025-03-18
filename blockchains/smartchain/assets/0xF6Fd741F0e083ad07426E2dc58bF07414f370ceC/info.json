@@ -1,0 +1,22 @@
+{
+    "name": "USIT Token",
+    "website": "YOUR_WEBSITE_URL",
+    "description": "USIT is a decentralized stablecoin designed for secure and efficient transactions on the Binance Smart Chain (BSC). Backed by advanced blockchain technology, USIT provides fast, low-cost transfers and seamless integration with DeFi platforms",
+    "explorer": "https://bscscan.com/token/0xF6Fd741F0e083ad07426E2dc58bF07414f370ceC",
+    "type": "BEP20",
+    "symbol": "USIT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF6Fd741F0e083ad07426E2dc58bF07414f370ceC",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "twitter.com/UsitSmart"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/usitsmartcoin"
+        }
+    ],
+    "tags": ["defi"]
+}
